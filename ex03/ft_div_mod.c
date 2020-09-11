@@ -6,7 +6,7 @@
 /*   By: gtaverne <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/09/10 23:10:09 by gtaverne          #+#    #+#             */
-/*   Updated: 2020/09/10 23:45:42 by gtaverne         ###   ########.fr       */
+/*   Updated: 2020/09/11 12:44:44 by gtaverne         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,4 +17,3 @@ void	ft_div_mod(int a, int b, int *div, int *mod)
 	*div = a / b;
 	*mod = a % b;
 }
-
